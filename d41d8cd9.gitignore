@@ -1,0 +1,4 @@
+# Ignore result from test, code coverage and code analysis
+/*.xml
+CodeMetrics/*
+TestResults/*
